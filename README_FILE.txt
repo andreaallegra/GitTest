@@ -40,4 +40,6 @@ Branches
 create a new branch
 size = 700
 
+Merging
+
 
