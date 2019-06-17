@@ -41,11 +41,13 @@ create a new branch
 size = 750 (from git)
 
 Merging
+easy case: where no conflicting changes have come in
 Make changes to branch and commit
 go back to master
 pull any changes from the remote repository using update project
 click on marge
 
+difficult case: where no conflicting changes have come in
 Fetching: to fetch the data from the remote repository
 Rebase: to re-ger the master branch into the branch3
 
