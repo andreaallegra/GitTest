@@ -31,6 +31,7 @@ CVS -> Git -> Compare with same repository version
 Ctrl Alt Z
 
 8: Update
+VCS -> update project == ctrl T (done in git)
 
 
 
