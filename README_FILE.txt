@@ -13,6 +13,12 @@ quick search: ctrl shit A and type add to vcs
 VCS + Import into version control + share project on github
 4: checkout from github
 VCS -> checkout from version control -> Git
-
 https://www.youtube.com/watch?v=_w9XWHDSSa4
 committing changes
+Refactor
+right click on the file -> refactor
+Diff
+CVS -> Git -> Compare with same repository version
+Revert
+test
+
