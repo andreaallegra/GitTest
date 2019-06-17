@@ -36,4 +36,8 @@ conflicting changes (one in git)
 
 https://www.youtube.com/watch?v=AHkiCKG-JhM
 
+Branches
+create a new branch
+size = 700
+
 
