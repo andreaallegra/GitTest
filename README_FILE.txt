@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=AHkiCKG-JhM
 
 Branches
 create a new branch
-size = 700
+size = 770
 
 Merging
 
