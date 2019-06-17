@@ -3,5 +3,16 @@ https://www.youtube.com/watch?v=jFnYQbUZQlA&t=2s
 alt ` == VCS operation popup -> Create git repository
 2: add a file CVS
 alt ` + Add to VCS == Ctrl Alt A
+or
+CVS -> Git -> Add
+or
+right click on the file
+or
+quick search: ctrl shit A and type add to vcs
 3: Share a project on github
 VCS + Import into version control + share project on github
+4: checkout from github
+VCS -> checkout from version control -> Git
+
+https://www.youtube.com/watch?v=_w9XWHDSSa4
+committing changes
