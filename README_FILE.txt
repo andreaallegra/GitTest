@@ -34,5 +34,6 @@ Ctrl Alt Z
 VCS -> update project == ctrl T (done in git)
 conflicting changes (one in git)
 
+https://www.youtube.com/watch?v=AHkiCKG-JhM
 
 
