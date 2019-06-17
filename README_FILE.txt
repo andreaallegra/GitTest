@@ -1,9 +1,12 @@
+PyCharm In-Depth VCS #1: Getting Started
 https://www.youtube.com/watch?v=jFnYQbUZQlA&t=2s
 
-1: create a GIT repository
+1:Local History
+
+2: Create a local GIT repository
 alt ` == VCS operation popup -> Create git repository
 
-2: add a file CVS
+Add a file to CVS
 alt ` + Add to VCS == Ctrl Alt A
 or
 CVS -> Git -> Add
@@ -12,35 +15,38 @@ right click on the file
 or
 quick search: ctrl shit A and type add to vcs
 
-3: Share a project on github
+3: Push to GitHub (Share a project on github)
 VCS + Import into version control + share project on github
 
 4: checkout from github
 VCS -> checkout from version control -> Git
 
+PyCharm In-Depth VCS #2: Core VCS
 https://www.youtube.com/watch?v=_w9XWHDSSa4
 
-5: committing changes
-Refactor
+
+Color coding
+1: Adding files
+2: Committing changes
+3: Refactor
 right click on the file -> refactor
-6: Diff
-
+4: Diff
 CVS -> Git -> Compare with same repository version
-
-7: Revert
+5: History
+6: Revert
 Ctrl Alt Z
-
-8: Update
+7: Update
 VCS -> update project == ctrl T (done in git)
 conflicting changes (one in git)
 
+PyCharm In-Depth VCS #3: Branching and Merging
 https://www.youtube.com/watch?v=AHkiCKG-JhM
 
-Branches
+1: Branches
 create a new branch
 size = 750 (from git)
 
-Merging
+2: Merging
 easy case: where no conflicting changes have come in
 Make changes to branch and commit
 go back to master
@@ -48,8 +54,8 @@ pull any changes from the remote repository using update project
 click on marge
 
 difficult case: where no conflicting changes have come in
-Fetching: to fetch the data from the remote repository
-Rebase: to re-ger the master branch into the branch3
+3: Fetching: to fetch the data from the remote repository
+4: Rebase: to re-ger the master branch into the branch3
 
 note:
 main branch on local: master
