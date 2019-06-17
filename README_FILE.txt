@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=jFnYQbUZQlA&t=2s
 
 2: Create a local GIT repository
 alt ` == VCS operation popup -> Create git repository
+The current files are in red meaning that they are not in version control,
+They needs to be added in version control
 
 Add a file to CVS
 alt ` + Add to VCS == Ctrl Alt A
@@ -18,7 +20,7 @@ quick search: ctrl shit A and type add to vcs
 3: Push to GitHub (Share a project on github)
 VCS + Import into version control + share project on github
 
-4: checkout from github
+4: checkout from github to the local computer and to pycharm
 VCS -> checkout from version control -> Git
 
 PyCharm In-Depth VCS #2: Core VCS
