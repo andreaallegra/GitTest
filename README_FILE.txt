@@ -32,6 +32,7 @@ Ctrl Alt Z
 
 8: Update
 VCS -> update project == ctrl T (done in git)
+conflicting changes (one in git)
 
 
 
