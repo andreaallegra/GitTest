@@ -41,5 +41,6 @@ create a new branch
 size = 750 (from git)
 
 Merging
-
+Fetching: to fetch the data from the remote repository
+Rebase: to re-ger the master branch into the branch3
 
