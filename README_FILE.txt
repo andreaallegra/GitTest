@@ -40,9 +40,12 @@ CVS -> Git -> Compare with same repository version
 6: Revert
 Ctrl Alt Z
 7: Update
+to get changes the origin (remote) done by other devs
 VCS -> update project == ctrl T (done in git)
 conflicting changes (one in git)
 latest change in github
+
+next example: change in local
 
 PyCharm In-Depth VCS #3: Branching and Merging
 https://www.youtube.com/watch?v=AHkiCKG-JhM
