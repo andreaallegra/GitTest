@@ -55,7 +55,7 @@ Pushing
 
 1: Branches
 create a new branch
-size = 750 (from git)
+size = 750 (from gitub webinterface)
 size = 750
 
 2: Merging
