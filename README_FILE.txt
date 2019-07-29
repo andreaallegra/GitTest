@@ -81,6 +81,7 @@ Second idea
 3: Pushing
 make a change in local/branch3 and create the corresponding remote branch(
 (similar case of brian: Contribute to somebody else project)
+when you push since we don't have a remote branch3 pycharm is offering to create it
 
 note:
 main branch on local: master
