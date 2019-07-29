@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=jFnYQbUZQlA&t=2s
 1:Local History
 
 2: Create a local GIT repository
-alt ` == VCS operation popup -> Create git repository
+alt ` (backslash) == VCS operation popup -> Create git repository
 The current files are in red meaning that they are not in version control,
 They needs to be added in version control
 
