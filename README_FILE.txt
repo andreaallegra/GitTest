@@ -75,9 +75,11 @@ Idea
 5: push changes to the remote repository
 
 Second idea
-modification on orgin/master
-3: Fetching: to fetch the data from the remote repository
-4: Rebase: to re-ger the master branch into the branch3
+modify a file remotely and commit in origin/master
+in pycharm we are on branch3: we know there are changes on master we want to get them to minimize the conflict
+we do a fetch from the remote repository
+now we tell that branch3 should be rebased onto origin master branch
+so we have less chance of conflict when finishing the branch
 
 3: Pushing
 make a change in local/branch3 and create the corresponding remote branch(
