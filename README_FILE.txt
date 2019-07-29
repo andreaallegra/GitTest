@@ -67,6 +67,14 @@ click on marge
 we finish by pushing our changes to the remote repository 
 
 difficult case: where no conflicting changes have come in
+Idea
+1 create a change in remote (commit it in origin/master)
+2 create branch3 in local, create a conflicting change there (and commit)
+3: switch to local master and pull changes from remote to master (using update project)
+4: when do merge branch3 to master there is conflict which can be resolved)
+5: push changes to the remote repository
+
+Second idea
 3: Fetching: to fetch the data from the remote repository
 4: Rebase: to re-ger the master branch into the branch3
 
