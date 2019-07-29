@@ -78,6 +78,10 @@ Second idea
 3: Fetching: to fetch the data from the remote repository
 4: Rebase: to re-ger the master branch into the branch3
 
+3: Pushing
+make a change in local/branch3 and create the corresponding remote branch(
+(similar case of brian: Contribute to somebody else project)
+
 note:
 main branch on local: master
 main branch on remote: origin
