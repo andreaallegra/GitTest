@@ -64,6 +64,7 @@ Make changes to branch and commit
 go back to master
 pull any changes from the remote repository using update project
 click on marge
+we finish by pushing our changes to the remote repository 
 
 difficult case: where no conflicting changes have come in
 3: Fetching: to fetch the data from the remote repository
