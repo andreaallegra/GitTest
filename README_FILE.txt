@@ -49,6 +49,9 @@ next example: change in remote
 
 PyCharm In-Depth VCS #3: Branching and Merging
 https://www.youtube.com/watch?v=AHkiCKG-JhM
+Branching: creating, switching, mergin, deleting
+Mergin
+Pushing
 
 1: Branches
 create a new branch
