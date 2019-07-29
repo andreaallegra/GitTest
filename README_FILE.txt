@@ -9,7 +9,9 @@ The current files are in red meaning that they are not in version control,
 They needs to be added in version control
 
 Add a file to CVS
-alt ` + Add to VCS == Ctrl Alt A
+alt ` (backquote) (VCS > VCS operation pop up) +
+this create a .git folder for our local repository
++ Add to VCS == Ctrl Alt A
 or
 CVS -> Git -> Add
 or
