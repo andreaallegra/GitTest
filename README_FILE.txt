@@ -42,6 +42,7 @@ Ctrl Alt Z
 7: Update
 VCS -> update project == ctrl T (done in git)
 conflicting changes (one in git)
+latest change in github
 
 PyCharm In-Depth VCS #3: Branching and Merging
 https://www.youtube.com/watch?v=AHkiCKG-JhM
