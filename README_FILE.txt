@@ -44,6 +44,8 @@ VCS -> update project == ctrl T (done in git)
 conflicting changes (one in git)
 latest change in github
 
+next example: change in remote
+
 PyCharm In-Depth VCS #3: Branching and Merging
 https://www.youtube.com/watch?v=AHkiCKG-JhM
 
