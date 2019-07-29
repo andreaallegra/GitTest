@@ -56,7 +56,7 @@ Pushing
 1: Branches
 create a new branch
 size = 750 (from git)
-size = 700
+size = 750
 
 2: Merging
 easy case: where no conflicting changes have come in
