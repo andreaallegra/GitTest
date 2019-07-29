@@ -75,6 +75,7 @@ Idea
 5: push changes to the remote repository
 
 Second idea
+modification on orgin/master
 3: Fetching: to fetch the data from the remote repository
 4: Rebase: to re-ger the master branch into the branch3
 
