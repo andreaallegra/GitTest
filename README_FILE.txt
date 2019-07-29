@@ -55,7 +55,7 @@ Pushing
 
 1: Branches
 create a new branch
-size = 750 (from git)
+size = 880 (from local): the branch3 and the master local branch are out of sync with the remote
 size = 750
 
 2: Merging
@@ -64,7 +64,7 @@ Make changes to branch and commit
 go back to master
 pull any changes from the remote repository using update project
 click on marge
-we finish by pushing our changes to the remote repository 
+we finish by pushing our changes to the remote repository
 
 difficult case: where no conflicting changes have come in
 3: Fetching: to fetch the data from the remote repository
